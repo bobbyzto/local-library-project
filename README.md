@@ -1,3 +1,3 @@
 # Local Library Website
 
-This is a web application for a local library that displays information about library books availability and account\n holders who have borrowed books.
+This is an application intended for libraries. It is a dashboard that will show which books are available, which are currently out, and other general statistics about the program.
